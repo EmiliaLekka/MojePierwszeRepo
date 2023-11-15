@@ -1,0 +1,2 @@
+# MojePierwszeRepo
+MojePierwszeRepo
