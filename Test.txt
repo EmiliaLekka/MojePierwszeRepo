@@ -1,2 +1,7 @@
 Tu nic nie ma ...
 To jest tylko do celów testowych
+
+
+
+dodaje nowe zmiany
+bla bla
